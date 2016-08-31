@@ -1,0 +1,1 @@
+face1.png= {'left_eye': (380, 80), 'right_mouth': (236, 255), 'mid_mouth': (300, 260), 'left_mouth': (362, 257), 'right_eye': (219, 80), 'nose': (298, 183)}
